@@ -66,9 +66,9 @@ Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D)
 
 ![image](https://github.com/Divya110205/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119404855/d649d81a-3273-4b3b-a49a-3bd392cc1444)
 
-Name: Jeyabalan
+Name:S.JAIGANESH
 
-Register Number: 212222240040
+Register Number: 212222240037
 
 ## RESULT:
 Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
